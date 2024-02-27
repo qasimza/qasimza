@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Zaina Qasim! 
 
-- 🌱 I’m currently learning how to write Machine Learing algorithms from scratch.
+- 🌱 I’m currently learning how to write Machine Learning algorithms from scratch.
 - 👯 I’m currently collaborating with [Cherish Alston](https://www.linkedin.com/in/cherishalston/) and [Unique Alston](https://www.linkedin.com/in/unique-alston/) on developing the software side of things for some super cool health-care and ed-tech projects!
 - 📚 I'm currently reading **Thinking Fast and Slow** by Daniel Kahnemen.
 - 🤔 I’m looking for help with advancing my career, knowledge and skills as a software developer. Appreciate any resources- menotrship, articles/books/research papers, etc. on that end. 
