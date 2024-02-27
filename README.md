@@ -7,6 +7,6 @@
 - 💬 Ask me about ...
 - 📫 How to reach me: qasimza@mail.uc.edu
 - 😄 Pronouns: she/her
-- Honors Portfolio: https://sites.google.com/view/zaina-qasim/home
-- Professional Portfolio: https://qasimza.github.io/
+- 🏆 [Honors Portfolio](https://sites.google.com/view/zaina-qasim/home)
+- 💼 [Professional Portfolio](https://qasimza.github.io/)
 - ⚡ Fun fact: ...
